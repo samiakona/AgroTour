@@ -1,0 +1,62 @@
+﻿@model IEnumerable<AgroTour_AggregateRoot.Entities.Location>
+
+
+    <div class="bottom-100 card border-0 p-4">
+    <div class="card-header bg-primary bg-gradient m-lg-0 py-3">
+            <div class="row">
+                <div class="col-12 text-center">
+                <h1 class="text-white py-2">Location List</h1>
+                </div>
+            </div>
+        </div>
+
+
+    <div class="card-body border p-4">
+
+        <div class="row pb-3">
+            <div class="col-6 offset-6 text-end">
+                <a asp-controller="Location" asp-action="Create" class="btn btn-secondary">
+                    <i class="bi bi-plus-circle"></i> Create New Location
+                </a>
+            </div>
+        </div>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>
+                    Location Name
+                </th>
+                <th>
+                    LocationAddress
+                </th>
+                <th>
+                    LocationCity
+                </th>
+                <th>
+                    Cost
+                </th>
+                <th>
+                    Capacity
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var obj in Model)
+            {
+                <tr>
+                    <td>@obj.locationName</td>
+                    <td>@obj.LocationAddress</td>
+                    <td>@obj.LocationCity</td>
+                    <td>@obj.Cost</td>
+                    <td>@obj.Capacity</td>
+
+
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    </div>
+
+</div>

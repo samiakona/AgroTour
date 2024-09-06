@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AgroTour_AggregateRoot/1.0.0": {
+        "runtime": {
+          "AgroTour_AggregateRoot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgroTour_AggregateRoot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

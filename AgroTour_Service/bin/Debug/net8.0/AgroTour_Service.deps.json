@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AgroTour_Service/1.0.0": {
+        "dependencies": {
+          "AgroTour_AggregateRoot": "1.0.0"
+        },
+        "runtime": {
+          "AgroTour_Service.dll": {}
+        }
+      },
+      "AgroTour_AggregateRoot/1.0.0": {
+        "runtime": {
+          "AgroTour_AggregateRoot.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgroTour_Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AgroTour_AggregateRoot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\kona\\Bdjobs\\AgroTour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF6351A-B8C3-470E-AC04-E0F61FC3015F}|AgroTour_AggregateRoot\\AgroTour_AggregateRoot.csproj|g:\\kona\\bdjobs\\agrotour\\agrotour_aggregateroot\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF6351A-B8C3-470E-AC04-E0F61FC3015F}|AgroTour_AggregateRoot\\AgroTour_AggregateRoot.csproj|solutionrelative:agrotour_aggregateroot\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF6351A-B8C3-470E-AC04-E0F61FC3015F}|AgroTour_AggregateRoot\\AgroTour_AggregateRoot.csproj|g:\\kona\\bdjobs\\agrotour\\agrotour_aggregateroot\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF6351A-B8C3-470E-AC04-E0F61FC3015F}|AgroTour_AggregateRoot\\AgroTour_AggregateRoot.csproj|solutionrelative:agrotour_aggregateroot\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4173733D-9880-4B0E-909B-A6A5ED7399A1}|AgroTour_Repository\\AgroTour_Repository.csproj|g:\\kona\\bdjobs\\agrotour\\agrotour_repository\\repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4173733D-9880-4B0E-909B-A6A5ED7399A1}|AgroTour_Repository\\AgroTour_Repository.csproj|solutionrelative:agrotour_repository\\repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B47587-6F4D-4F89-8726-F38D77734CD0}|AgroTour_Service\\AgroTour_Service.csproj|g:\\kona\\bdjobs\\agrotour\\agrotour_service\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B47587-6F4D-4F89-8726-F38D77734CD0}|AgroTour_Service\\AgroTour_Service.csproj|solutionrelative:agrotour_service\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4491A097-EE65-4BB4-ABC9-C165258A896B}|AgroTour\\AgroTour.csproj|g:\\kona\\bdjobs\\agrotour\\agrotour\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4491A097-EE65-4BB4-ABC9-C165258A896B}|AgroTour\\AgroTour.csproj|solutionrelative:agrotour\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4491A097-EE65-4BB4-ABC9-C165258A896B}|AgroTour\\AgroTour.csproj|g:\\kona\\bdjobs\\agrotour\\agrotour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4491A097-EE65-4BB4-ABC9-C165258A896B}|AgroTour\\AgroTour.csproj|solutionrelative:agrotour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Location.cs",
+              "DocumentMoniker": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_AggregateRoot\\Entities\\Location.cs",
+              "RelativeDocumentMoniker": "AgroTour_AggregateRoot\\Entities\\Location.cs",
+              "ToolTip": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_AggregateRoot\\Entities\\Location.cs",
+              "RelativeToolTip": "AgroTour_AggregateRoot\\Entities\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:34:45.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_AggregateRoot\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "AgroTour_AggregateRoot\\Entities\\Booking.cs",
+              "ToolTip": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_AggregateRoot\\Entities\\Booking.cs",
+              "RelativeToolTip": "AgroTour_AggregateRoot\\Entities\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:33:52.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "AgroTour\\Controllers\\LocationController.cs",
+              "ToolTip": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "AgroTour\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:23:28.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_Repository\\Repository\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "AgroTour_Repository\\Repository\\LocationRepository.cs",
+              "ToolTip": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_Repository\\Repository\\LocationRepository.cs",
+              "RelativeToolTip": "AgroTour_Repository\\Repository\\LocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:09:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_Service\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "AgroTour_Service\\ILocationRepository.cs",
+              "ToolTip": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_Service\\ILocationRepository.cs",
+              "RelativeToolTip": "AgroTour_Service\\ILocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:04:11.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour\\Program.cs",
+              "RelativeDocumentMoniker": "AgroTour\\Program.cs",
+              "ToolTip": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour\\Program.cs",
+              "RelativeToolTip": "AgroTour\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:01:22.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
