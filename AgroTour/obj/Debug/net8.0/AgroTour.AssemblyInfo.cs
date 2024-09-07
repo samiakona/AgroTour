@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgroTour")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b682208514e9e3fa6e59efafada83e1dda13b75")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgroTour")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgroTour")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

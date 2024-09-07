@@ -1,7 +1,7 @@
 using AgroTour_Repository.Data;
 using AgroTour_Repository.Repository;
-using AgroTour_Service;
 using Microsoft.EntityFrameworkCore;
+using AgroTour_Service;
 
 var builder = WebApplication.CreateBuilder(args);
 

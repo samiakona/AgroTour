@@ -17,3 +17,4 @@ G:\kona\Bdjobs\AgroTour\AgroTour_Repository\bin\Debug\net8.0\AgroTour_AggregateR
 G:\kona\Bdjobs\AgroTour\AgroTour_Repository\obj\Debug\net8.0\AgroTour.39A41913.Up2Date
 G:\kona\Bdjobs\AgroTour\AgroTour_Repository\bin\Debug\net8.0\AgroTour_Service.dll
 G:\kona\Bdjobs\AgroTour\AgroTour_Repository\bin\Debug\net8.0\AgroTour_Service.pdb
+G:\kona\Bdjobs\AgroTour\AgroTour_Repository\obj\Debug\net8.0\AgroTour_Repository.sourcelink.json

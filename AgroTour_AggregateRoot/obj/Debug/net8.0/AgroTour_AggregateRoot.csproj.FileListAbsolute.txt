@@ -9,3 +9,5 @@ G:\kona\Bdjobs\AgroTour\AgroTour_AggregateRoot\obj\Debug\net8.0\AgroTour_Aggrega
 G:\kona\Bdjobs\AgroTour\AgroTour_AggregateRoot\obj\Debug\net8.0\refint\AgroTour_AggregateRoot.dll
 G:\kona\Bdjobs\AgroTour\AgroTour_AggregateRoot\obj\Debug\net8.0\AgroTour_AggregateRoot.pdb
 G:\kona\Bdjobs\AgroTour\AgroTour_AggregateRoot\obj\Debug\net8.0\ref\AgroTour_AggregateRoot.dll
+G:\kona\Bdjobs\AgroTour\AgroTour_AggregateRoot\obj\Debug\net8.0\AgroTour_AggregateRoot.csproj.AssemblyReference.cache
+G:\kona\Bdjobs\AgroTour\AgroTour_AggregateRoot\obj\Debug\net8.0\AgroTour_AggregateRoot.sourcelink.json

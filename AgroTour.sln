@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroTour", "AgroTour\AgroTour.csproj", "{4491A097-EE65-4BB4-ABC9-C165258A896B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgroTour", "AgroTour\AgroTour.csproj", "{4491A097-EE65-4BB4-ABC9-C165258A896B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroTour_AggregateRoot", "AgroTour_AggregateRoot\AgroTour_AggregateRoot.csproj", "{CFF6351A-B8C3-470E-AC04-E0F61FC3015F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgroTour_AggregateRoot", "AgroTour_AggregateRoot\AgroTour_AggregateRoot.csproj", "{CFF6351A-B8C3-470E-AC04-E0F61FC3015F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroTour_Repository", "AgroTour_Repository\AgroTour_Repository.csproj", "{4173733D-9880-4B0E-909B-A6A5ED7399A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgroTour_Repository", "AgroTour_Repository\AgroTour_Repository.csproj", "{4173733D-9880-4B0E-909B-A6A5ED7399A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroTour_DTO", "AgroTour_DTO\AgroTour_DTO.csproj", "{D1EE3F46-D48A-47ED-83A9-014CC0D318E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgroTour_DTO", "AgroTour_DTO\AgroTour_DTO.csproj", "{D1EE3F46-D48A-47ED-83A9-014CC0D318E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroTour_Service", "AgroTour_Service\AgroTour_Service.csproj", "{D5B47587-6F4D-4F89-8726-F38D77734CD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgroTour_Service", "AgroTour_Service\AgroTour_Service.csproj", "{D5B47587-6F4D-4F89-8726-F38D77734CD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

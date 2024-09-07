@@ -1,0 +1,16 @@
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\bin\Debug\net8.0\AgroTour_Handler.deps.json
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\bin\Debug\net8.0\AgroTour_Handler.dll
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\bin\Debug\net8.0\AgroTour_Handler.pdb
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\bin\Debug\net8.0\AgroTour_AggregateRoot.dll
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\bin\Debug\net8.0\AgroTour_AggregateRoot.pdb
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour_Handler.csproj.AssemblyReference.cache
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour_Handler.GeneratedMSBuildEditorConfig.editorconfig
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour_Handler.AssemblyInfoInputs.cache
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour_Handler.AssemblyInfo.cs
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour_Handler.csproj.CoreCompileInputs.cache
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour_Handler.sourcelink.json
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour.F14ED94A.Up2Date
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour_Handler.dll
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\refint\AgroTour_Handler.dll
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour_Handler.pdb
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\ref\AgroTour_Handler.dll

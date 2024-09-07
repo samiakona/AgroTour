@@ -31,6 +31,9 @@
             "projectReferences": {
               "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_Repository\\AgroTour_Repository.csproj": {
                 "projectPath": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_Repository\\AgroTour_Repository.csproj"
+              },
+              "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_Service\\AgroTour_Service.csproj": {
+                "projectPath": "G:\\kona\\Bdjobs\\AgroTour\\AgroTour_Service\\AgroTour_Service.csproj"
               }
             }
           }

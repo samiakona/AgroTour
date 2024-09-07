@@ -13,3 +13,4 @@ G:\kona\Bdjobs\AgroTour\AgroTour_Service\bin\Debug\net8.0\AgroTour_AggregateRoot
 G:\kona\Bdjobs\AgroTour\AgroTour_Service\bin\Debug\net8.0\AgroTour_AggregateRoot.pdb
 G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour_Service.csproj.AssemblyReference.cache
 G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour.1C5794F1.Up2Date
+G:\kona\Bdjobs\AgroTour\AgroTour_Service\obj\Debug\net8.0\AgroTour_Service.sourcelink.json

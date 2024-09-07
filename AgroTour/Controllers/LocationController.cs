@@ -39,5 +39,30 @@ namespace AgroTour.Controllers
             return View();
          
         }
-    } 
+
+        public IActionResult Update(int LocationId)
+        {
+            Location? obj = _db.Locations.FirstOrDefault(u=>u.Id==LocationId);
+            if (obj ==null)
+            {
+                return RedirectToAction("Error", "Home");
+
+            }
+            return View(obj);
+        }
+
+        public IActionResult Update(Location obj)
+        {
+            if (ModelState.IsValid)
+            {
+                _db.Locations.Update(obj);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+
+            }
+            return View();
+
+        }
+
+    }
 }

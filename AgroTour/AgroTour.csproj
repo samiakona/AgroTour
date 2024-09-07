@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AgroTour_Repository\AgroTour_Repository.csproj" />
+    <ProjectReference Include="..\AgroTour_Service\AgroTour_Service.csproj" />
   </ItemGroup>
 
   <ItemGroup>

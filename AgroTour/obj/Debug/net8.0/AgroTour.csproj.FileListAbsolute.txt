@@ -140,3 +140,7 @@ G:\kona\Bdjobs\AgroTour\AgroTour\bin\Debug\net8.0\AgroTour_AggregateRoot.dll
 G:\kona\Bdjobs\AgroTour\AgroTour\bin\Debug\net8.0\AgroTour_AggregateRoot.pdb
 G:\kona\Bdjobs\AgroTour\AgroTour\bin\Debug\net8.0\AgroTour_Service.dll
 G:\kona\Bdjobs\AgroTour\AgroTour\bin\Debug\net8.0\AgroTour_Service.pdb
+G:\kona\Bdjobs\AgroTour\AgroTour\obj\Debug\net8.0\AgroTour.sourcelink.json
+G:\kona\Bdjobs\AgroTour\AgroTour\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+G:\kona\Bdjobs\AgroTour\AgroTour\bin\Debug\net8.0\EntityFramework.dll
+G:\kona\Bdjobs\AgroTour\AgroTour\bin\Debug\net8.0\System.Web.Providers.dll
