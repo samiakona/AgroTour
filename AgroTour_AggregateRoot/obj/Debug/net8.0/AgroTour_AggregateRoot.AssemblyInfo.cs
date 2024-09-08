@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgroTour_AggregateRoot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b682208514e9e3fa6e59efafada83e1dda13b75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d09160b62a431151c6a65c287e8cf1018c6e6d71")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgroTour_AggregateRoot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgroTour_AggregateRoot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

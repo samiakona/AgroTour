@@ -21,6 +21,13 @@ namespace AgroTour.Controllers
             return View(location);
         }
 
+        public IActionResult GetLoactionById(int locationId)
+        {
+            var location = _db.Locations.Where(i => i.Id == locationId).FirstOrDefault();
+            return View(location);
+        }
+
+
         public IActionResult Create()
         {
             return View();
@@ -51,7 +58,7 @@ namespace AgroTour.Controllers
             return View(obj);
         }
 
-        public IActionResult Update(Location obj)
+        public IActionResult UpdateLocation(Location obj)
         {
             if (ModelState.IsValid)
             {

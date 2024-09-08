@@ -39,6 +39,7 @@
       },
       "AgroTour_AggregateRoot/1.0.0": {
         "dependencies": {
+          "EntityFramework": "6.0.0",
           "Microsoft.AspNet.Providers.Core": "2.0.0"
         },
         "runtime": {

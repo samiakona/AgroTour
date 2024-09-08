@@ -9,3 +9,8 @@ G:\kona\Bdjobs\AgroTour\AgroTour_DTO\obj\Debug\net8.0\AgroTour_DTO.dll
 G:\kona\Bdjobs\AgroTour\AgroTour_DTO\obj\Debug\net8.0\refint\AgroTour_DTO.dll
 G:\kona\Bdjobs\AgroTour\AgroTour_DTO\obj\Debug\net8.0\AgroTour_DTO.pdb
 G:\kona\Bdjobs\AgroTour\AgroTour_DTO\obj\Debug\net8.0\ref\AgroTour_DTO.dll
+G:\kona\Bdjobs\AgroTour\AgroTour_DTO\bin\Debug\net8.0\AgroTour_AggregateRoot.dll
+G:\kona\Bdjobs\AgroTour\AgroTour_DTO\bin\Debug\net8.0\AgroTour_AggregateRoot.pdb
+G:\kona\Bdjobs\AgroTour\AgroTour_DTO\obj\Debug\net8.0\AgroTour_DTO.csproj.AssemblyReference.cache
+G:\kona\Bdjobs\AgroTour\AgroTour_DTO\obj\Debug\net8.0\AgroTour_DTO.sourcelink.json
+G:\kona\Bdjobs\AgroTour\AgroTour_DTO\obj\Debug\net8.0\AgroTour.1768C7A2.Up2Date

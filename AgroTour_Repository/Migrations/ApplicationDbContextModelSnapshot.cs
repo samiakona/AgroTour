@@ -35,6 +35,9 @@ namespace AgroTour_Repository.Migrations
                     b.Property<int>("Cost")
                         .HasColumnType("int");
 
+                    b.Property<bool>("IsBooked")
+                        .HasColumnType("bit");
+
                     b.Property<string>("LocationAddress")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -57,6 +60,7 @@ namespace AgroTour_Repository.Migrations
                             Id = 1,
                             Capacity = 500,
                             Cost = 100,
+                            IsBooked = false,
                             LocationAddress = "ShaBhag",
                             LocationCity = "Dhaka",
                             locationName = "National Museum"
@@ -66,6 +70,7 @@ namespace AgroTour_Repository.Migrations
                             Id = 2,
                             Capacity = 1000,
                             Cost = 50,
+                            IsBooked = false,
                             LocationAddress = "Mirpur-1",
                             LocationCity = "Dhaka",
                             locationName = "ZOO"
@@ -75,6 +80,7 @@ namespace AgroTour_Repository.Migrations
                             Id = 3,
                             Capacity = 500,
                             Cost = 100,
+                            IsBooked = false,
                             LocationAddress = "Bijoy Soroni",
                             LocationCity = "Dhaka",
                             locationName = "National Military Museum"

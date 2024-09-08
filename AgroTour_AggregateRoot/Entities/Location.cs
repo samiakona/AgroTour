@@ -17,6 +17,7 @@ namespace AgroTour_AggregateRoot.Entities
         public string LocationCity { get; set; }
         public int Cost { get; set; }
         public int Capacity { get; set; }
+        public bool IsBooked { get; set; }
 
     }
 }

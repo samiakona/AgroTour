@@ -8,7 +8,7 @@
     </div>
 
     <div class="card-body border p-4">
-        <form method="post" class="row">
+        <form method="post" class="row" asp-action="UpdateLocation">
             <input asp-for="Id" hidden />
             <div class="p-3">
                 <!-- Location Name -->
@@ -47,12 +47,29 @@
                     <input asp-for="Capacity" class="form-control border shadow" />
                     <label asp-for="Capacity" class="ms-2">Capacity</label>
                     <span asp-validation-for="Capacity" clsss="text-danger"></span>
-
+                </div>
+                <!-- Booked -->
+                <div class="form-floating py-1 col-12">
+                    <div>
+                        <div>
+                            <label asp-for="Capacity" class="ms-2">Booked</label>
+                        </div>
+                        <div>
+                            <div class="form-check form-check-inline">
+                                @Html.RadioButtonFor(model => model.IsBooked, true, new { @class = "form-check-input" })
+                                <label class="form-check-label" for="IsBooked">Yes</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                @Html.RadioButtonFor(model => model.IsBooked, false, new { @class = "form-check-input" })
+                                <label class="form-check-label" for="IsBooked">No</label>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="row pt-2">
                     <div class="col-6 col-md-3">
                         <button type="submit" class="btn btn-success w-100">
-                            <i class="bi bi-check-circle"></i> Create
+                            <i class="bi bi-check-circle"></i> Update
                         </button>
                     </div>
                     <div class="col-6 col-md-3">

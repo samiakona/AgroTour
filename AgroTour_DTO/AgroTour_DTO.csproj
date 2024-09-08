@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AgroTour_AggregateRoot\AgroTour_AggregateRoot.csproj" />
+  </ItemGroup>
+
 </Project>
